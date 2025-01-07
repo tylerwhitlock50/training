@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+
+    <form method="POST" class="form-signin">
+        {{ form.hidden_tag() }} <!-- CSRF Token -->
+
+        <!-- Placeholder for the logo -->
+        <img class="mb-4" src="{{ url_for('static', filename='images/logos/futurecomplogo.webp') }}" alt="Logo" style="width: 25%";>
+
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+
+        <div class="mb-3">
+            <label for="inputEmail" class="sr-only">User Name</label>
+            {{ form.username(class="form-control", id="username", placeholder="WHITTYLE") }}
+            {% for error in form.username.errors %}
+                <div class="text-danger text-left mt-1">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="mb-3">
+            <label for="inputPassword" class="sr-only">Password</label>
+            {{ form.password(class="form-control", id="inputPassword", placeholder="Password") }}
+            {% for error in form.password.errors %}
+                <div class="text-danger text-left mt-1">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="mb-3">
+            {{ form.submit(class="btn btn-lg btn-primary btn-block") }}
+        </div>
+        {# <p>
+            <a href="{{ url_for('auth.request_password_reset') }}">Forgot Password?</a>
+        </p> #}
+
+        <p class="mt-5 mb-3 text-muted">© 2024</p>
+    </form>
+
+{% endblock %}

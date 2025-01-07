@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="container text-left mt-5" style="margin-top:200px">
+    <br>
+    <h1>Welcome to Future Comp Training</h1>
+    <p>Enhance your skills and knowledge with our comprehensive training programs!</p>
+    <p>Access valuable resources, participate in interactive sessions, and take your expertise to the next level.</p>
+
+    <div class="mt-4">
+      {% if current_user.is_authenticated %}
+        <p>You are logged in as <strong>{{ current_user.email }}</strong>.</p>
+        <p><a href="{{ url_for('auth.logout') }}" class="btn btn-danger">Log Out</a></p>
+      {% else %}
+        <p>Ready to begin your training journey?</p>
+        <p><a href="{{ url_for('auth.login') }}" class="btn btn-primary">Log In</a></p>
+      {% endif %}
+    </div>
+
+    <hr class="my-4">
+    <p>
+      Have questions? Email us at <a href="mailto:melissam@futurecomp.com">MelissaM@futurecomp.com</a>.
+    </p>
+  </div>
+{% endblock %}

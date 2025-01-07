@@ -1,0 +1,654 @@
+2025-01-02 17:00:37,442 - INFO - App configuration loaded
+2025-01-02 17:00:37,599 - INFO - Database initialized
+2025-01-02 17:00:37,602 - INFO - Migration engine initialized
+2025-01-02 17:00:37,603 - INFO - Login manager initialized
+2025-01-02 17:01:26,934 - INFO - App configuration loaded
+2025-01-02 17:01:26,946 - INFO - Database initialized
+2025-01-02 17:01:26,947 - INFO - Migration engine initialized
+2025-01-02 17:01:26,947 - INFO - Login manager initialized
+2025-01-02 17:01:26,947 - INFO - Password hashing initialized
+2025-01-02 17:01:26,948 - INFO - Cross-origin resource sharing initialized
+2025-01-02 17:01:26,948 - INFO - Mail server initialized
+2025-01-02 17:02:28,346 - INFO - App configuration loaded
+2025-01-02 17:02:28,367 - INFO - Database initialized
+2025-01-02 17:02:28,371 - INFO - Migration engine initialized
+2025-01-02 17:02:28,405 - INFO - Database schema created
+2025-01-02 17:02:28,405 - INFO - Login manager initialized
+2025-01-02 17:02:28,406 - INFO - Password hashing initialized
+2025-01-02 17:02:28,406 - INFO - Cross-origin resource sharing initialized
+2025-01-02 17:02:28,406 - INFO - Mail server initialized
+2025-01-02 17:06:01,024 - INFO - App configuration loaded
+2025-01-02 17:06:01,037 - INFO - Database initialized
+2025-01-02 17:06:01,039 - INFO - Migration engine initialized
+2025-01-02 17:06:01,042 - INFO - Database schema created
+2025-01-02 17:06:01,042 - INFO - Login manager initialized
+2025-01-02 17:06:01,042 - INFO - Password hashing initialized
+2025-01-02 17:06:01,043 - INFO - Cross-origin resource sharing initialized
+2025-01-02 17:06:01,043 - INFO - Mail server initialized
+2025-01-03 12:48:31,774 - INFO - App configuration loaded
+2025-01-03 12:48:31,818 - INFO - Database initialized
+2025-01-03 12:48:31,823 - INFO - Migration engine initialized
+2025-01-03 12:49:00,324 - INFO - App configuration loaded
+2025-01-03 12:49:00,342 - INFO - Database initialized
+2025-01-03 12:49:00,344 - INFO - Migration engine initialized
+2025-01-03 12:49:00,403 - INFO - Database schema created
+2025-01-03 12:49:00,403 - INFO - Login manager initialized
+2025-01-03 12:49:00,404 - INFO - Password hashing initialized
+2025-01-03 12:49:00,404 - INFO - Cross-origin resource sharing initialized
+2025-01-03 12:49:00,404 - INFO - Mail server initialized
+2025-01-03 12:59:35,571 - INFO - App configuration loaded
+2025-01-03 12:59:35,586 - INFO - Database initialized
+2025-01-03 12:59:35,588 - INFO - Migration engine initialized
+2025-01-03 12:59:35,592 - INFO - Database schema created
+2025-01-03 12:59:35,592 - INFO - Login manager initialized
+2025-01-03 12:59:35,593 - INFO - Password hashing initialized
+2025-01-03 12:59:35,593 - INFO - Cross-origin resource sharing initialized
+2025-01-03 12:59:35,593 - INFO - Mail server initialized
+2025-01-03 13:05:59,585 - INFO - App configuration loaded
+2025-01-03 13:05:59,600 - INFO - Database initialized
+2025-01-03 13:05:59,602 - INFO - Migration engine initialized
+2025-01-03 13:05:59,606 - INFO - Database schema created
+2025-01-03 13:05:59,606 - INFO - Login manager initialized
+2025-01-03 13:05:59,607 - INFO - Password hashing initialized
+2025-01-03 13:05:59,607 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:05:59,607 - INFO - Mail server initialized
+2025-01-03 13:08:06,788 - INFO - App configuration loaded
+2025-01-03 13:08:06,810 - INFO - Database initialized
+2025-01-03 13:08:06,812 - INFO - Migration engine initialized
+2025-01-03 13:08:06,817 - INFO - Database schema created
+2025-01-03 13:08:06,817 - INFO - Login manager initialized
+2025-01-03 13:08:06,817 - INFO - Password hashing initialized
+2025-01-03 13:08:06,818 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:08:06,818 - INFO - Mail server initialized
+2025-01-03 13:09:14,606 - INFO - App configuration loaded
+2025-01-03 13:09:14,622 - INFO - Database initialized
+2025-01-03 13:09:14,623 - INFO - Migration engine initialized
+2025-01-03 13:09:14,627 - INFO - Database schema created
+2025-01-03 13:09:14,627 - INFO - Login manager initialized
+2025-01-03 13:09:14,627 - INFO - Password hashing initialized
+2025-01-03 13:09:14,628 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:09:14,628 - INFO - Mail server initialized
+2025-01-03 13:09:43,568 - INFO - App configuration loaded
+2025-01-03 13:09:43,586 - INFO - Database initialized
+2025-01-03 13:09:43,588 - INFO - Migration engine initialized
+2025-01-03 13:09:43,593 - INFO - Database schema created
+2025-01-03 13:09:43,593 - INFO - Login manager initialized
+2025-01-03 13:09:43,594 - INFO - Password hashing initialized
+2025-01-03 13:09:43,594 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:09:43,594 - INFO - Mail server initialized
+2025-01-03 13:12:18,868 - INFO - App configuration loaded
+2025-01-03 13:12:18,895 - INFO - Database initialized
+2025-01-03 13:12:18,897 - INFO - Migration engine initialized
+2025-01-03 13:12:18,904 - INFO - Database schema created
+2025-01-03 13:12:18,904 - INFO - Login manager initialized
+2025-01-03 13:12:18,904 - INFO - Password hashing initialized
+2025-01-03 13:12:18,904 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:12:18,904 - INFO - Mail server initialized
+2025-01-03 13:12:38,331 - INFO - App configuration loaded
+2025-01-03 13:12:38,347 - INFO - Database initialized
+2025-01-03 13:12:38,349 - INFO - Migration engine initialized
+2025-01-03 13:12:38,354 - INFO - Database schema created
+2025-01-03 13:12:38,354 - INFO - Login manager initialized
+2025-01-03 13:12:38,354 - INFO - Password hashing initialized
+2025-01-03 13:12:38,355 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:12:38,355 - INFO - Mail server initialized
+2025-01-03 13:13:11,503 - INFO - App configuration loaded
+2025-01-03 13:13:11,521 - INFO - Database initialized
+2025-01-03 13:13:11,523 - INFO - Migration engine initialized
+2025-01-03 13:13:11,528 - INFO - Database schema created
+2025-01-03 13:13:11,528 - INFO - Login manager initialized
+2025-01-03 13:13:11,528 - INFO - Password hashing initialized
+2025-01-03 13:13:11,529 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:13:11,529 - INFO - Mail server initialized
+2025-01-03 13:13:52,499 - INFO - App configuration loaded
+2025-01-03 13:13:52,515 - INFO - Database initialized
+2025-01-03 13:13:52,516 - INFO - Migration engine initialized
+2025-01-03 13:13:52,521 - INFO - Database schema created
+2025-01-03 13:13:52,521 - INFO - Login manager initialized
+2025-01-03 13:13:52,521 - INFO - Password hashing initialized
+2025-01-03 13:13:52,522 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:13:52,522 - INFO - Mail server initialized
+2025-01-03 13:16:23,938 - INFO - App configuration loaded
+2025-01-03 13:16:23,953 - INFO - Database initialized
+2025-01-03 13:16:23,955 - INFO - Migration engine initialized
+2025-01-03 13:16:23,960 - INFO - Database schema created
+2025-01-03 13:16:23,960 - INFO - Login manager initialized
+2025-01-03 13:16:23,960 - INFO - Password hashing initialized
+2025-01-03 13:16:23,960 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:16:23,960 - INFO - Mail server initialized
+2025-01-03 13:16:29,979 - INFO - App configuration loaded
+2025-01-03 13:16:29,999 - INFO - Database initialized
+2025-01-03 13:16:30,001 - INFO - Migration engine initialized
+2025-01-03 13:16:30,005 - INFO - Database schema created
+2025-01-03 13:16:30,006 - INFO - Login manager initialized
+2025-01-03 13:16:30,006 - INFO - Password hashing initialized
+2025-01-03 13:16:30,006 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:16:30,006 - INFO - Mail server initialized
+2025-01-03 13:17:45,072 - INFO - App configuration loaded
+2025-01-03 13:17:45,087 - INFO - Database initialized
+2025-01-03 13:17:45,089 - INFO - Migration engine initialized
+2025-01-03 13:17:45,093 - INFO - Database schema created
+2025-01-03 13:17:45,093 - INFO - Login manager initialized
+2025-01-03 13:17:45,093 - INFO - Password hashing initialized
+2025-01-03 13:17:45,093 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:17:45,094 - INFO - Mail server initialized
+2025-01-03 13:18:32,920 - INFO - App configuration loaded
+2025-01-03 13:18:32,935 - INFO - Database initialized
+2025-01-03 13:18:32,937 - INFO - Migration engine initialized
+2025-01-03 13:18:32,941 - INFO - Database schema created
+2025-01-03 13:18:32,942 - INFO - Login manager initialized
+2025-01-03 13:18:32,942 - INFO - Password hashing initialized
+2025-01-03 13:18:32,942 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:18:32,943 - INFO - Mail server initialized
+2025-01-03 13:18:57,563 - INFO - App configuration loaded
+2025-01-03 13:18:57,577 - INFO - Database initialized
+2025-01-03 13:18:57,579 - INFO - Migration engine initialized
+2025-01-03 13:18:57,582 - INFO - Database schema created
+2025-01-03 13:18:57,582 - INFO - Login manager initialized
+2025-01-03 13:18:57,583 - INFO - Password hashing initialized
+2025-01-03 13:18:57,583 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:18:57,583 - INFO - Mail server initialized
+2025-01-03 13:19:04,239 - INFO - App configuration loaded
+2025-01-03 13:19:04,256 - INFO - Database initialized
+2025-01-03 13:19:04,258 - INFO - Migration engine initialized
+2025-01-03 13:19:04,262 - INFO - Database schema created
+2025-01-03 13:19:04,263 - INFO - Login manager initialized
+2025-01-03 13:19:04,263 - INFO - Password hashing initialized
+2025-01-03 13:19:04,263 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:19:04,263 - INFO - Mail server initialized
+2025-01-03 13:19:38,576 - INFO - App configuration loaded
+2025-01-03 13:19:38,590 - INFO - Database initialized
+2025-01-03 13:19:38,592 - INFO - Migration engine initialized
+2025-01-03 13:19:38,639 - INFO - Database schema created
+2025-01-03 13:19:38,639 - INFO - Login manager initialized
+2025-01-03 13:19:38,639 - INFO - Password hashing initialized
+2025-01-03 13:19:38,639 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:19:38,639 - INFO - Mail server initialized
+2025-01-03 13:20:00,616 - INFO - App configuration loaded
+2025-01-03 13:20:00,637 - INFO - Database initialized
+2025-01-03 13:20:00,639 - INFO - Migration engine initialized
+2025-01-03 13:20:00,643 - INFO - Database schema created
+2025-01-03 13:20:00,644 - INFO - Login manager initialized
+2025-01-03 13:20:00,644 - INFO - Password hashing initialized
+2025-01-03 13:20:00,644 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:20:00,644 - INFO - Mail server initialized
+2025-01-03 13:20:34,523 - INFO - App configuration loaded
+2025-01-03 13:20:34,536 - INFO - Database initialized
+2025-01-03 13:20:34,538 - INFO - Migration engine initialized
+2025-01-03 13:20:34,542 - INFO - Database schema created
+2025-01-03 13:20:34,543 - INFO - Login manager initialized
+2025-01-03 13:20:34,543 - INFO - Password hashing initialized
+2025-01-03 13:20:34,543 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:20:34,543 - INFO - Mail server initialized
+2025-01-03 13:21:36,903 - INFO - App configuration loaded
+2025-01-03 13:21:36,917 - INFO - Database initialized
+2025-01-03 13:21:36,919 - INFO - Migration engine initialized
+2025-01-03 13:21:36,923 - INFO - Database schema created
+2025-01-03 13:21:36,923 - INFO - Login manager initialized
+2025-01-03 13:21:36,924 - INFO - Password hashing initialized
+2025-01-03 13:21:36,924 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:21:36,924 - INFO - Mail server initialized
+2025-01-03 13:21:50,381 - INFO - App configuration loaded
+2025-01-03 13:21:50,395 - INFO - Database initialized
+2025-01-03 13:21:50,397 - INFO - Migration engine initialized
+2025-01-03 13:21:50,448 - INFO - Database schema created
+2025-01-03 13:21:50,448 - INFO - Login manager initialized
+2025-01-03 13:21:50,449 - INFO - Password hashing initialized
+2025-01-03 13:21:50,449 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:21:50,449 - INFO - Mail server initialized
+2025-01-03 13:23:15,833 - INFO - App configuration loaded
+2025-01-03 13:23:15,848 - INFO - Database initialized
+2025-01-03 13:23:15,849 - INFO - Migration engine initialized
+2025-01-03 13:23:15,854 - INFO - Database schema created
+2025-01-03 13:23:15,854 - INFO - Login manager initialized
+2025-01-03 13:23:15,854 - INFO - Password hashing initialized
+2025-01-03 13:23:15,854 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:23:15,855 - INFO - Mail server initialized
+2025-01-03 13:23:24,807 - INFO - App configuration loaded
+2025-01-03 13:23:24,822 - INFO - Database initialized
+2025-01-03 13:23:24,823 - INFO - Migration engine initialized
+2025-01-03 13:23:24,878 - INFO - Database schema created
+2025-01-03 13:23:24,878 - INFO - Login manager initialized
+2025-01-03 13:23:24,878 - INFO - Password hashing initialized
+2025-01-03 13:23:24,878 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:23:24,879 - INFO - Mail server initialized
+2025-01-03 13:23:48,324 - INFO - App configuration loaded
+2025-01-03 13:23:48,338 - INFO - Database initialized
+2025-01-03 13:23:48,340 - INFO - Migration engine initialized
+2025-01-03 13:23:48,345 - INFO - Database schema created
+2025-01-03 13:23:48,345 - INFO - Login manager initialized
+2025-01-03 13:23:48,345 - INFO - Password hashing initialized
+2025-01-03 13:23:48,345 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:23:48,345 - INFO - Mail server initialized
+2025-01-03 13:24:16,227 - INFO - App configuration loaded
+2025-01-03 13:24:16,241 - INFO - Database initialized
+2025-01-03 13:24:16,243 - INFO - Migration engine initialized
+2025-01-03 13:24:16,247 - INFO - Database schema created
+2025-01-03 13:24:16,247 - INFO - Login manager initialized
+2025-01-03 13:24:16,248 - INFO - Password hashing initialized
+2025-01-03 13:24:16,248 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:24:16,248 - INFO - Mail server initialized
+2025-01-03 13:24:16,453 - INFO - Default database populated
+2025-01-03 13:34:40,984 - INFO - App configuration loaded
+2025-01-03 13:34:40,999 - INFO - Database initialized
+2025-01-03 13:34:41,000 - INFO - Migration engine initialized
+2025-01-03 13:34:41,050 - INFO - Database schema created
+2025-01-03 13:34:41,051 - INFO - Login manager initialized
+2025-01-03 13:34:41,051 - INFO - Password hashing initialized
+2025-01-03 13:34:41,051 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:34:41,051 - INFO - Mail server initialized
+2025-01-03 13:34:41,075 - INFO - Default department 'IT' created.
+2025-01-03 13:34:41,076 - INFO - UserStatus 'Active' created.
+2025-01-03 13:34:41,079 - INFO - UserStatus 'Inactive' created.
+2025-01-03 13:34:41,086 - ERROR - Error populating default database: 'UserStatus' is an invalid keyword argument for User
+2025-01-03 13:35:13,926 - INFO - App configuration loaded
+2025-01-03 13:35:13,946 - INFO - Database initialized
+2025-01-03 13:35:13,949 - INFO - Migration engine initialized
+2025-01-03 13:35:13,952 - INFO - Database schema created
+2025-01-03 13:35:13,953 - INFO - Login manager initialized
+2025-01-03 13:35:13,953 - INFO - Password hashing initialized
+2025-01-03 13:35:13,953 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:35:13,953 - INFO - Mail server initialized
+2025-01-03 13:35:13,964 - INFO - Default department 'IT' already exists.
+2025-01-03 13:35:13,967 - ERROR - Error populating default database: 'UserStatus' is an invalid keyword argument for User
+2025-01-03 13:35:26,063 - INFO - App configuration loaded
+2025-01-03 13:35:26,076 - INFO - Database initialized
+2025-01-03 13:35:26,078 - INFO - Migration engine initialized
+2025-01-03 13:35:26,082 - INFO - Database schema created
+2025-01-03 13:35:26,083 - INFO - Login manager initialized
+2025-01-03 13:35:26,083 - INFO - Password hashing initialized
+2025-01-03 13:35:26,084 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:35:26,084 - INFO - Mail server initialized
+2025-01-03 13:35:26,096 - INFO - Default department 'IT' already exists.
+2025-01-03 13:35:26,270 - ERROR - Error populating default database: (sqlite3.ProgrammingError) Error binding parameter 6: type 'Department' is not supported
+[SQL: INSERT INTO user (username, password, created_at, last_login, role, department_id, user_status) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('admin', b'$2b$12$qGFjPstDqj4BbtKdFuVzGOLtDq7Uhrtz3ra12Xb2tR89sBpboJSRm', '2025-01-03 20:35:26.269994', None, 'ADMIN', <Department IT>, 1)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-01-03 13:35:49,194 - INFO - App configuration loaded
+2025-01-03 13:35:49,208 - INFO - Database initialized
+2025-01-03 13:35:49,210 - INFO - Migration engine initialized
+2025-01-03 13:35:49,214 - INFO - Database schema created
+2025-01-03 13:35:49,215 - INFO - Login manager initialized
+2025-01-03 13:35:49,215 - INFO - Password hashing initialized
+2025-01-03 13:35:49,215 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:35:49,216 - INFO - Mail server initialized
+2025-01-03 13:35:49,231 - INFO - Default department 'IT' already exists.
+2025-01-03 13:35:49,414 - INFO - Default admin user created.
+2025-01-03 13:35:49,415 - INFO - EvaluationType 'Pre-training evaluation' created.
+2025-01-03 13:35:49,419 - INFO - EvaluationType 'Post-training evaluation' created.
+2025-01-03 13:35:49,420 - INFO - EvaluationType 'Training effectiveness evaluation' created.
+2025-01-03 13:35:49,421 - INFO - TrainingResult 'Pass' created.
+2025-01-03 13:35:49,422 - INFO - TrainingResult 'Fail' created.
+2025-01-03 13:35:49,427 - INFO - Default database populated successfully.
+2025-01-03 13:35:49,427 - INFO - Default database populated
+2025-01-03 13:38:16,813 - INFO - App configuration loaded
+2025-01-03 13:38:16,828 - INFO - Database initialized
+2025-01-03 13:38:16,830 - INFO - Migration engine initialized
+2025-01-03 13:38:16,877 - INFO - Database schema created
+2025-01-03 13:38:16,877 - INFO - Login manager initialized
+2025-01-03 13:38:16,877 - INFO - Password hashing initialized
+2025-01-03 13:38:16,878 - INFO - Cross-origin resource sharing initialized
+2025-01-03 13:38:16,878 - INFO - Mail server initialized
+2025-01-03 13:38:16,896 - INFO - Default department 'IT' created.
+2025-01-03 13:38:16,897 - INFO - UserStatus 'Active' created.
+2025-01-03 13:38:16,899 - INFO - UserStatus 'Inactive' created.
+2025-01-03 13:38:17,083 - INFO - Default admin user created.
+2025-01-03 13:38:17,084 - INFO - Testing bcrypt password hashing
+2025-01-03 13:38:17,252 - INFO - Password hashing successful
+2025-01-03 13:38:17,254 - INFO - EvaluationType 'Pre-training evaluation' created.
+2025-01-03 13:38:17,258 - INFO - EvaluationType 'Post-training evaluation' created.
+2025-01-03 13:38:17,258 - INFO - EvaluationType 'Training effectiveness evaluation' created.
+2025-01-03 13:38:17,259 - INFO - TrainingResult 'Pass' created.
+2025-01-03 13:38:17,260 - INFO - TrainingResult 'Fail' created.
+2025-01-03 13:38:17,265 - INFO - Default database populated successfully.
+2025-01-03 13:38:17,265 - INFO - Default database populated
+2025-01-03 14:04:46,518 - INFO - App configuration loaded
+2025-01-03 14:04:46,534 - INFO - Database initialized
+2025-01-03 14:04:46,536 - INFO - Migration engine initialized
+2025-01-03 14:04:46,541 - INFO - Database schema created
+2025-01-03 14:04:46,541 - INFO - Login manager initialized
+2025-01-03 14:04:46,541 - INFO - Password hashing initialized
+2025-01-03 14:04:46,542 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:04:46,542 - INFO - Mail server initialized
+2025-01-03 14:04:46,550 - INFO - Default department 'IT' already exists.
+2025-01-03 14:04:46,553 - INFO - Default admin user already exists.
+2025-01-03 14:04:46,553 - INFO - Testing bcrypt password hashing
+2025-01-03 14:04:46,722 - INFO - Password hashing successful
+2025-01-03 14:04:46,725 - INFO - Default database populated successfully.
+2025-01-03 14:04:46,725 - INFO - Default database populated
+2025-01-03 14:05:14,960 - INFO - App configuration loaded
+2025-01-03 14:05:14,976 - INFO - Database initialized
+2025-01-03 14:05:14,978 - INFO - Migration engine initialized
+2025-01-03 14:05:14,982 - INFO - Database schema created
+2025-01-03 14:05:14,982 - INFO - Login manager initialized
+2025-01-03 14:05:14,982 - INFO - Password hashing initialized
+2025-01-03 14:05:14,982 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:05:14,983 - INFO - Mail server initialized
+2025-01-03 14:05:14,991 - INFO - Default department 'IT' already exists.
+2025-01-03 14:05:14,993 - INFO - Default admin user already exists.
+2025-01-03 14:05:14,993 - INFO - Testing bcrypt password hashing
+2025-01-03 14:05:15,162 - INFO - Password hashing successful
+2025-01-03 14:05:15,165 - INFO - Default database populated successfully.
+2025-01-03 14:05:15,165 - INFO - Default database populated
+2025-01-03 14:05:46,961 - INFO - App configuration loaded
+2025-01-03 14:05:46,974 - INFO - Database initialized
+2025-01-03 14:05:46,975 - INFO - Migration engine initialized
+2025-01-03 14:05:46,979 - INFO - Database schema created
+2025-01-03 14:05:46,979 - INFO - Login manager initialized
+2025-01-03 14:05:46,980 - INFO - Password hashing initialized
+2025-01-03 14:05:46,980 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:05:46,980 - INFO - Mail server initialized
+2025-01-03 14:05:46,988 - INFO - Default department 'IT' already exists.
+2025-01-03 14:05:46,990 - INFO - Default admin user already exists.
+2025-01-03 14:05:46,991 - INFO - Testing bcrypt password hashing
+2025-01-03 14:05:47,158 - INFO - Password hashing successful
+2025-01-03 14:05:47,161 - INFO - Default database populated successfully.
+2025-01-03 14:05:47,161 - INFO - Default database populated
+2025-01-03 14:05:48,036 - INFO - App configuration loaded
+2025-01-03 14:05:48,052 - INFO - Database initialized
+2025-01-03 14:05:48,053 - INFO - Migration engine initialized
+2025-01-03 14:05:48,057 - INFO - Database schema created
+2025-01-03 14:05:48,057 - INFO - Login manager initialized
+2025-01-03 14:05:48,058 - INFO - Password hashing initialized
+2025-01-03 14:05:48,058 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:05:48,058 - INFO - Mail server initialized
+2025-01-03 14:05:48,066 - INFO - Default department 'IT' already exists.
+2025-01-03 14:05:48,068 - INFO - Default admin user already exists.
+2025-01-03 14:05:48,069 - INFO - Testing bcrypt password hashing
+2025-01-03 14:05:48,236 - INFO - Password hashing successful
+2025-01-03 14:05:48,239 - INFO - Default database populated successfully.
+2025-01-03 14:05:48,239 - INFO - Default database populated
+2025-01-03 14:06:21,038 - INFO - App configuration loaded
+2025-01-03 14:06:21,054 - INFO - Database initialized
+2025-01-03 14:06:21,056 - INFO - Migration engine initialized
+2025-01-03 14:06:21,061 - INFO - Database schema created
+2025-01-03 14:06:21,061 - INFO - Login manager initialized
+2025-01-03 14:06:21,061 - INFO - Password hashing initialized
+2025-01-03 14:06:21,061 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:06:21,062 - INFO - Mail server initialized
+2025-01-03 14:06:21,071 - INFO - Default department 'IT' already exists.
+2025-01-03 14:06:21,073 - INFO - Default admin user already exists.
+2025-01-03 14:06:21,073 - INFO - Testing bcrypt password hashing
+2025-01-03 14:06:21,242 - INFO - Password hashing successful
+2025-01-03 14:06:21,245 - INFO - Default database populated successfully.
+2025-01-03 14:06:21,245 - INFO - Default database populated
+2025-01-03 14:06:32,450 - INFO - App configuration loaded
+2025-01-03 14:06:32,469 - INFO - Database initialized
+2025-01-03 14:06:32,472 - INFO - Migration engine initialized
+2025-01-03 14:06:32,476 - INFO - Database schema created
+2025-01-03 14:06:32,477 - INFO - Login manager initialized
+2025-01-03 14:06:32,477 - INFO - Password hashing initialized
+2025-01-03 14:06:32,477 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:06:32,477 - INFO - Mail server initialized
+2025-01-03 14:06:32,486 - INFO - Default department 'IT' already exists.
+2025-01-03 14:06:32,489 - INFO - Default admin user already exists.
+2025-01-03 14:06:32,489 - INFO - Testing bcrypt password hashing
+2025-01-03 14:06:32,658 - INFO - Password hashing successful
+2025-01-03 14:06:32,661 - INFO - Default database populated successfully.
+2025-01-03 14:06:32,661 - INFO - Default database populated
+2025-01-03 14:06:48,960 - INFO - App configuration loaded
+2025-01-03 14:06:48,975 - INFO - Database initialized
+2025-01-03 14:06:48,976 - INFO - Migration engine initialized
+2025-01-03 14:06:48,980 - INFO - Database schema created
+2025-01-03 14:06:48,980 - INFO - Login manager initialized
+2025-01-03 14:06:48,981 - INFO - Password hashing initialized
+2025-01-03 14:06:48,981 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:06:48,981 - INFO - Mail server initialized
+2025-01-03 14:06:48,990 - INFO - Default department 'IT' already exists.
+2025-01-03 14:06:48,992 - INFO - Default admin user already exists.
+2025-01-03 14:06:48,992 - INFO - Testing bcrypt password hashing
+2025-01-03 14:06:49,161 - INFO - Password hashing successful
+2025-01-03 14:06:49,164 - INFO - Default database populated successfully.
+2025-01-03 14:06:49,164 - INFO - Default database populated
+2025-01-03 14:06:58,331 - INFO - App configuration loaded
+2025-01-03 14:06:58,347 - INFO - Database initialized
+2025-01-03 14:06:58,349 - INFO - Migration engine initialized
+2025-01-03 14:06:58,353 - INFO - Database schema created
+2025-01-03 14:06:58,353 - INFO - Login manager initialized
+2025-01-03 14:06:58,353 - INFO - Password hashing initialized
+2025-01-03 14:06:58,354 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:06:58,354 - INFO - Mail server initialized
+2025-01-03 14:06:58,362 - INFO - Default department 'IT' already exists.
+2025-01-03 14:06:58,364 - INFO - Default admin user already exists.
+2025-01-03 14:06:58,365 - INFO - Testing bcrypt password hashing
+2025-01-03 14:06:58,533 - INFO - Password hashing successful
+2025-01-03 14:06:58,536 - INFO - Default database populated successfully.
+2025-01-03 14:06:58,536 - INFO - Default database populated
+2025-01-03 14:08:55,765 - INFO - App configuration loaded
+2025-01-03 14:08:55,780 - INFO - Database initialized
+2025-01-03 14:08:55,781 - INFO - Migration engine initialized
+2025-01-03 14:08:55,786 - INFO - Database schema created
+2025-01-03 14:08:55,786 - INFO - Login manager initialized
+2025-01-03 14:08:55,786 - INFO - Password hashing initialized
+2025-01-03 14:08:55,786 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:08:55,787 - INFO - Mail server initialized
+2025-01-03 14:08:55,795 - INFO - Default department 'IT' already exists.
+2025-01-03 14:08:55,797 - INFO - Default admin user already exists.
+2025-01-03 14:08:55,797 - INFO - Testing bcrypt password hashing
+2025-01-03 14:08:55,964 - INFO - Password hashing successful
+2025-01-03 14:08:55,967 - INFO - Default database populated successfully.
+2025-01-03 14:08:55,967 - INFO - Default database populated
+2025-01-03 14:09:26,681 - INFO - App configuration loaded
+2025-01-03 14:09:26,694 - INFO - Database initialized
+2025-01-03 14:09:26,696 - INFO - Migration engine initialized
+2025-01-03 14:09:26,700 - INFO - Database schema created
+2025-01-03 14:09:26,701 - INFO - Login manager initialized
+2025-01-03 14:09:26,701 - INFO - Password hashing initialized
+2025-01-03 14:09:26,701 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:09:26,701 - INFO - Mail server initialized
+2025-01-03 14:09:26,709 - INFO - Default department 'IT' already exists.
+2025-01-03 14:09:26,711 - INFO - Default admin user already exists.
+2025-01-03 14:09:26,711 - INFO - Testing bcrypt password hashing
+2025-01-03 14:09:26,880 - INFO - Password hashing successful
+2025-01-03 14:09:26,883 - INFO - Default database populated successfully.
+2025-01-03 14:09:26,883 - INFO - Default database populated
+2025-01-03 14:10:37,683 - INFO - App configuration loaded
+2025-01-03 14:10:37,697 - INFO - Database initialized
+2025-01-03 14:10:37,699 - INFO - Migration engine initialized
+2025-01-03 14:10:37,703 - INFO - Database schema created
+2025-01-03 14:10:37,703 - INFO - Login manager initialized
+2025-01-03 14:10:37,703 - INFO - Password hashing initialized
+2025-01-03 14:10:37,704 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:10:37,704 - INFO - Mail server initialized
+2025-01-03 14:10:37,712 - INFO - Default department 'IT' already exists.
+2025-01-03 14:10:37,714 - INFO - Default admin user already exists.
+2025-01-03 14:10:37,714 - INFO - Testing bcrypt password hashing
+2025-01-03 14:10:37,883 - INFO - Password hashing successful
+2025-01-03 14:10:37,886 - INFO - Default database populated successfully.
+2025-01-03 14:10:37,886 - INFO - Default database populated
+2025-01-03 14:11:31,971 - INFO - App configuration loaded
+2025-01-03 14:11:31,985 - INFO - Database initialized
+2025-01-03 14:11:31,987 - INFO - Migration engine initialized
+2025-01-03 14:11:31,992 - INFO - Database schema created
+2025-01-03 14:11:31,992 - INFO - Login manager initialized
+2025-01-03 14:11:31,992 - INFO - Password hashing initialized
+2025-01-03 14:11:31,993 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:11:31,993 - INFO - Mail server initialized
+2025-01-03 14:11:32,001 - INFO - Default department 'IT' already exists.
+2025-01-03 14:11:32,003 - INFO - Default admin user already exists.
+2025-01-03 14:11:32,003 - INFO - Testing bcrypt password hashing
+2025-01-03 14:11:32,172 - INFO - Password hashing successful
+2025-01-03 14:11:32,175 - INFO - Default database populated successfully.
+2025-01-03 14:11:32,175 - INFO - Default database populated
+2025-01-03 14:11:54,339 - INFO - App configuration loaded
+2025-01-03 14:11:54,354 - INFO - Database initialized
+2025-01-03 14:11:54,356 - INFO - Migration engine initialized
+2025-01-03 14:11:54,360 - INFO - Database schema created
+2025-01-03 14:11:54,361 - INFO - Login manager initialized
+2025-01-03 14:11:54,361 - INFO - Password hashing initialized
+2025-01-03 14:11:54,361 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:11:54,361 - INFO - Mail server initialized
+2025-01-03 14:11:54,369 - INFO - Default department 'IT' already exists.
+2025-01-03 14:11:54,371 - INFO - Default admin user already exists.
+2025-01-03 14:11:54,371 - INFO - Testing bcrypt password hashing
+2025-01-03 14:11:54,540 - INFO - Password hashing successful
+2025-01-03 14:11:54,543 - INFO - Default database populated successfully.
+2025-01-03 14:11:54,543 - INFO - Default database populated
+2025-01-03 14:11:55,762 - INFO - App configuration loaded
+2025-01-03 14:11:55,776 - INFO - Database initialized
+2025-01-03 14:11:55,778 - INFO - Migration engine initialized
+2025-01-03 14:11:55,782 - INFO - Database schema created
+2025-01-03 14:11:55,783 - INFO - Login manager initialized
+2025-01-03 14:11:55,783 - INFO - Password hashing initialized
+2025-01-03 14:11:55,783 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:11:55,783 - INFO - Mail server initialized
+2025-01-03 14:11:55,791 - INFO - Default department 'IT' already exists.
+2025-01-03 14:11:55,794 - INFO - Default admin user already exists.
+2025-01-03 14:11:55,794 - INFO - Testing bcrypt password hashing
+2025-01-03 14:11:55,964 - INFO - Password hashing successful
+2025-01-03 14:11:55,967 - INFO - Default database populated successfully.
+2025-01-03 14:11:55,967 - INFO - Default database populated
+2025-01-03 14:12:56,165 - INFO - App configuration loaded
+2025-01-03 14:12:56,180 - INFO - Database initialized
+2025-01-03 14:12:56,182 - INFO - Migration engine initialized
+2025-01-03 14:12:56,186 - INFO - Database schema created
+2025-01-03 14:12:56,186 - INFO - Login manager initialized
+2025-01-03 14:12:56,186 - INFO - Password hashing initialized
+2025-01-03 14:12:56,186 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:12:56,187 - INFO - Mail server initialized
+2025-01-03 14:12:56,195 - INFO - Default department 'IT' already exists.
+2025-01-03 14:12:56,197 - INFO - Default admin user already exists.
+2025-01-03 14:12:56,197 - INFO - Testing bcrypt password hashing
+2025-01-03 14:12:56,366 - INFO - Password hashing successful
+2025-01-03 14:12:56,369 - INFO - Default database populated successfully.
+2025-01-03 14:12:56,369 - INFO - Default database populated
+2025-01-03 14:13:18,378 - INFO - App configuration loaded
+2025-01-03 14:13:18,392 - INFO - Database initialized
+2025-01-03 14:13:18,393 - INFO - Migration engine initialized
+2025-01-03 14:13:18,397 - INFO - Database schema created
+2025-01-03 14:13:18,398 - INFO - Login manager initialized
+2025-01-03 14:13:18,398 - INFO - Password hashing initialized
+2025-01-03 14:13:18,398 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:13:18,398 - INFO - Mail server initialized
+2025-01-03 14:13:18,406 - INFO - Default department 'IT' already exists.
+2025-01-03 14:13:18,408 - INFO - Default admin user already exists.
+2025-01-03 14:13:18,408 - INFO - Testing bcrypt password hashing
+2025-01-03 14:13:18,576 - INFO - Password hashing successful
+2025-01-03 14:13:18,578 - INFO - Default database populated successfully.
+2025-01-03 14:13:18,579 - INFO - Default database populated
+2025-01-03 14:13:22,002 - INFO - App configuration loaded
+2025-01-03 14:13:22,018 - INFO - Database initialized
+2025-01-03 14:13:22,020 - INFO - Migration engine initialized
+2025-01-03 14:13:22,024 - INFO - Database schema created
+2025-01-03 14:13:22,024 - INFO - Login manager initialized
+2025-01-03 14:13:22,025 - INFO - Password hashing initialized
+2025-01-03 14:13:22,025 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:13:22,025 - INFO - Mail server initialized
+2025-01-03 14:13:22,033 - INFO - Default department 'IT' already exists.
+2025-01-03 14:13:22,036 - INFO - Default admin user already exists.
+2025-01-03 14:13:22,036 - INFO - Testing bcrypt password hashing
+2025-01-03 14:13:22,205 - INFO - Password hashing successful
+2025-01-03 14:13:22,207 - INFO - Default database populated successfully.
+2025-01-03 14:13:22,208 - INFO - Default database populated
+2025-01-03 14:13:31,833 - INFO - App configuration loaded
+2025-01-03 14:13:31,848 - INFO - Database initialized
+2025-01-03 14:13:31,850 - INFO - Migration engine initialized
+2025-01-03 14:13:31,854 - INFO - Database schema created
+2025-01-03 14:13:31,854 - INFO - Login manager initialized
+2025-01-03 14:13:31,855 - INFO - Password hashing initialized
+2025-01-03 14:13:31,855 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:13:31,855 - INFO - Mail server initialized
+2025-01-03 14:13:31,863 - INFO - Default department 'IT' already exists.
+2025-01-03 14:13:31,866 - INFO - Default admin user already exists.
+2025-01-03 14:13:31,866 - INFO - Testing bcrypt password hashing
+2025-01-03 14:13:32,035 - INFO - Password hashing successful
+2025-01-03 14:13:32,038 - INFO - Default database populated successfully.
+2025-01-03 14:13:32,039 - INFO - Default database populated
+2025-01-03 14:14:14,674 - INFO - App configuration loaded
+2025-01-03 14:14:14,687 - INFO - Database initialized
+2025-01-03 14:14:14,689 - INFO - Migration engine initialized
+2025-01-03 14:14:14,693 - INFO - Database schema created
+2025-01-03 14:14:14,693 - INFO - Login manager initialized
+2025-01-03 14:14:14,693 - INFO - Password hashing initialized
+2025-01-03 14:14:14,693 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:14:14,694 - INFO - Mail server initialized
+2025-01-03 14:14:14,701 - INFO - Default department 'IT' already exists.
+2025-01-03 14:14:14,704 - INFO - Default admin user already exists.
+2025-01-03 14:14:14,704 - INFO - Testing bcrypt password hashing
+2025-01-03 14:14:14,873 - INFO - Password hashing successful
+2025-01-03 14:14:14,876 - INFO - Default database populated successfully.
+2025-01-03 14:14:14,876 - INFO - Default database populated
+2025-01-03 14:18:23,271 - INFO - App configuration loaded
+2025-01-03 14:18:23,284 - INFO - Database initialized
+2025-01-03 14:18:23,286 - INFO - Migration engine initialized
+2025-01-03 14:18:23,290 - INFO - Database schema created
+2025-01-03 14:18:23,290 - INFO - Login manager initialized
+2025-01-03 14:18:23,290 - INFO - Password hashing initialized
+2025-01-03 14:18:23,290 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:18:23,290 - INFO - Mail server initialized
+2025-01-03 14:18:23,299 - INFO - Default department 'IT' already exists.
+2025-01-03 14:18:23,301 - INFO - Default admin user already exists.
+2025-01-03 14:18:23,301 - INFO - Testing bcrypt password hashing
+2025-01-03 14:18:23,471 - INFO - Password hashing successful
+2025-01-03 14:18:23,474 - INFO - Default database populated successfully.
+2025-01-03 14:18:23,474 - INFO - Default database populated
+2025-01-03 14:18:44,557 - INFO - App configuration loaded
+2025-01-03 14:18:44,574 - INFO - Database initialized
+2025-01-03 14:18:44,576 - INFO - Migration engine initialized
+2025-01-03 14:18:44,581 - INFO - Database schema created
+2025-01-03 14:18:44,581 - INFO - Login manager initialized
+2025-01-03 14:18:44,581 - INFO - Password hashing initialized
+2025-01-03 14:18:44,582 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:18:44,582 - INFO - Mail server initialized
+2025-01-03 14:18:44,590 - INFO - Default department 'IT' already exists.
+2025-01-03 14:18:44,593 - INFO - Default admin user already exists.
+2025-01-03 14:18:44,593 - INFO - Testing bcrypt password hashing
+2025-01-03 14:18:44,762 - INFO - Password hashing successful
+2025-01-03 14:18:44,764 - INFO - Default database populated successfully.
+2025-01-03 14:18:44,765 - INFO - Default database populated
+2025-01-03 14:19:19,247 - INFO - App configuration loaded
+2025-01-03 14:19:19,262 - INFO - Database initialized
+2025-01-03 14:19:19,264 - INFO - Migration engine initialized
+2025-01-03 14:19:19,268 - INFO - Database schema created
+2025-01-03 14:19:19,269 - INFO - Login manager initialized
+2025-01-03 14:19:19,269 - INFO - Password hashing initialized
+2025-01-03 14:19:19,269 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:19:19,269 - INFO - Mail server initialized
+2025-01-03 14:19:19,277 - INFO - Default department 'IT' already exists.
+2025-01-03 14:19:19,280 - INFO - Default admin user already exists.
+2025-01-03 14:19:19,280 - INFO - Testing bcrypt password hashing
+2025-01-03 14:19:19,450 - INFO - Password hashing successful
+2025-01-03 14:19:19,452 - INFO - Default database populated successfully.
+2025-01-03 14:19:19,453 - INFO - Default database populated
+2025-01-03 14:20:02,314 - INFO - App configuration loaded
+2025-01-03 14:20:02,329 - INFO - Database initialized
+2025-01-03 14:20:02,331 - INFO - Migration engine initialized
+2025-01-03 14:20:02,336 - INFO - Database schema created
+2025-01-03 14:20:02,336 - INFO - Login manager initialized
+2025-01-03 14:20:02,336 - INFO - Password hashing initialized
+2025-01-03 14:20:02,336 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:20:02,337 - INFO - Mail server initialized
+2025-01-03 14:20:02,345 - INFO - Default department 'IT' already exists.
+2025-01-03 14:20:02,347 - INFO - Default admin user already exists.
+2025-01-03 14:20:02,347 - INFO - Testing bcrypt password hashing
+2025-01-03 14:20:02,517 - INFO - Password hashing successful
+2025-01-03 14:20:02,519 - INFO - Default database populated successfully.
+2025-01-03 14:20:02,520 - INFO - Default database populated
+2025-01-03 14:25:09,437 - INFO - App configuration loaded
+2025-01-03 14:25:09,451 - INFO - Database initialized
+2025-01-03 14:25:09,453 - INFO - Migration engine initialized
+2025-01-03 14:25:09,457 - INFO - Database schema created
+2025-01-03 14:25:09,457 - INFO - Login manager initialized
+2025-01-03 14:25:09,458 - INFO - Password hashing initialized
+2025-01-03 14:25:09,458 - INFO - Cross-origin resource sharing initialized
+2025-01-03 14:25:09,458 - INFO - Mail server initialized
+2025-01-03 14:25:09,467 - INFO - Default department 'IT' already exists.
+2025-01-03 14:25:09,469 - INFO - Default admin user already exists.
+2025-01-03 14:25:09,469 - INFO - Testing bcrypt password hashing
+2025-01-03 14:25:09,637 - INFO - Password hashing successful
+2025-01-03 14:25:09,640 - INFO - Default database populated successfully.
+2025-01-03 14:25:09,640 - INFO - Default database populated
+2025-01-03 17:19:25,005 - INFO - App configuration loaded
+2025-01-03 17:19:25,021 - INFO - Database initialized
+2025-01-03 17:19:25,023 - INFO - Migration engine initialized
+2025-01-03 17:19:25,027 - INFO - Database schema created
+2025-01-03 17:19:25,027 - INFO - Login manager initialized
+2025-01-03 17:19:25,027 - INFO - Password hashing initialized
+2025-01-03 17:19:25,028 - INFO - Cross-origin resource sharing initialized
+2025-01-03 17:19:25,028 - INFO - Mail server initialized
+2025-01-03 17:19:25,036 - INFO - Default department 'IT' already exists.
+2025-01-03 17:19:25,038 - INFO - Default admin user already exists.
+2025-01-03 17:19:25,039 - INFO - Testing bcrypt password hashing
+2025-01-03 17:19:25,207 - INFO - Password hashing successful
+2025-01-03 17:19:25,210 - INFO - Default database populated successfully.
+2025-01-03 17:19:25,210 - INFO - Default database populated
